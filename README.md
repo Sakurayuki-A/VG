@@ -104,6 +104,18 @@ VG/
 
 ---
 
+## Screenshots
+
+| Shapes & Gradients | Text & Icons | UI Components |
+|:---:|:---:|:---:|
+| ![](screenshots/shapes.png) | ![](screenshots/typography.png) | ![](screenshots/components.png) |
+
+| Performance | Showcase Overview |
+|:---:|:---:|
+| ![](screenshots/performance.png) | ![](screenshots/showcase.png) |
+
+---
+
 ## Prerequisites
 
 - **Gradle 8.8** — Download `gradle-8.8-bin.zip` and place it in the project root.
